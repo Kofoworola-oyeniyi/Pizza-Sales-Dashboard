@@ -10,8 +10,8 @@ For a pizza restaurant chain, understanding sales performance, customer preferen
 The primary dataset used for this analysis contains pizza sales transaction records from the year 2015, including order details: pizza types, categories, sizes, quantities, and revenue figures across 21,350 total orders.
 
 ### Tools
-**SQL** - Exploratory Data Analysis
-**Power BI** - Data Visualization and Dashboard Design
+- **SQL** - Exploratory Data Analysis
+- **Power BI** - Data Visualization and Dashboard Design
 
 ### Data Cleaning and Preparation
 In the data preparation phase, I performed the following tasks;
