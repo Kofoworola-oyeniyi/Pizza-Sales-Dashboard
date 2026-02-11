@@ -38,6 +38,7 @@ This involved exploring the data to provide the following key imnsights;
 5.Total Pizzas Sold by Pizza Category
 6.Top 5 Best Sellers by Revenue, Total Quantity and Total Orders
 7. Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders
+
 <a name="my-custom-anchor-point2"></a>
 ### Results/Findings
 Some of the Analysis results are summarised as follows;
