@@ -1,4 +1,12 @@
 # Pizza-Sales-Dashboard-End-to-End-Project
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(-e-d-a-))
+- [Results/Findings](#results-/-findings)
+- [Recommendations](#recommendations)
+  
 ### Project Overview
 For a pizza restaurant chain, understanding sales performance, customer preferences, and product popularity is essential for maximizing revenue and optimizing menu offerings. In this project, I analysed sales data across multiple dimensions including revenue, order volume, pizza categories, sizes, and time-based trends to identify best and worst performing products, peak business periods, and customer purchasing patterns.
 
