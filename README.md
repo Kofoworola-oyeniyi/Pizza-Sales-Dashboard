@@ -3,8 +3,8 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(-e-d-a-))
-- [Results/Findings](#results-/-findings)
+- [Exploratory Data Analysis (EDA)](#my-custom-anchor-point)
+- [Results/Findings](#my-custom-anchor-point2)
 - [Recommendations](#recommendations)
   
 ### Project Overview
@@ -28,7 +28,7 @@ In the data preparation phase, I performed the following tasks;
 - Data formatting and normalization
 - Creating calculated measures (Total Revenue, Avg Order Value,Total Pizzas Sold, Avg Pizzas per Order)
 - Categorizing pizzas by type, size, and category
-
+<a name="my-custom-anchor-point"></a>
 ### Exploratory Data Analysis (EDA)
 This involved exploring the data to provide the following key imnsights;
 1.Daily Trend for Total Orders
@@ -38,7 +38,7 @@ This involved exploring the data to provide the following key imnsights;
 5.Total Pizzas Sold by Pizza Category
 6.Top 5 Best Sellers by Revenue, Total Quantity and Total Orders
 7. Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders
-
+<a name="my-custom-anchor-point2"></a>
 ### Results/Findings
 Some of the Analysis results are summarised as follows;
 - **The Thai Chicken** pizza generates the highest revenue, while **The Brie Carre** pizza records the lowest revenue, quantity sold, and total orders.
